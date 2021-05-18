@@ -1,7 +1,7 @@
 # APIHomework
 # Unit 5 - Financial Planning
 
-![Financial Planner](Images/financial-planner.png)
+![Rainy Day]( APIHomework/MyNeighborTotoro.jpg)
 
 ### Part 1 - Personal Finance Planner
 
